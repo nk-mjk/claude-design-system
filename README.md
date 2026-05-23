@@ -2,7 +2,7 @@
 
 > 내 색깔·폰트·분위기를 파일 하나에 저장해두고, PPT·문서·위젯을 만들 때마다 일관된 디자인으로 자동 적용하는 Claude Cowork 스킬
 
-📖 **『클로드 코워크 시작하기 - 퇴근은 내가! 야근은 AI가!』 독자 전용 스킬**
+📖 **『클로드 디자인 시작하기 - 퇴근은 내가! 야근은 AI가!』 독자 전용 스킬**
 업데이트 정보 → [vielbooks.com](https://vielbooks.com/) | 유튜브 → [@mjKorea123](https://www.youtube.com/@mjKorea123)
 
 ---
@@ -31,8 +31,14 @@ Claude Design에서 만든 디자인 시스템 파일(.zip)을 그대로 불러�
 ### 📋 ShowCase A — 상세 브랜드 가이드
 색상 팔레트, 폰트 조합, 사용 예시가 담긴 디자인 가이드 문서 생성
 
+![ShowCase A - Page 1](https://github.com/nk-mjk/claude-design-system/blob/main/%E1%84%8B%E1%85%A6%E1%86%AB%E1%84%90%E1%85%B5%E1%84%8F%E1%85%B3-showcase_a_page1.png?raw=true)
+![ShowCase A - Page 2](https://github.com/nk-mjk/claude-design-system/blob/main/%E1%84%8B%E1%85%A6%E1%86%AB%E1%84%90%E1%85%B5%E1%84%8F%E1%85%B3-showcase_a_page2.png?raw=true)
+![ShowCase A - Page 3](https://github.com/nk-mjk/claude-design-system/blob/main/%E1%84%8B%E1%85%A6%E1%86%AB%E1%84%90%E1%85%B5%E1%84%8F%E1%85%B3-showcase_a_page3.png?raw=true)
+
 ### 🖼️ ShowCase B — 썸네일·카드 이미지
 유튜브 썸네일, 인스타그램 카드, SNS용 이미지 생성
+
+![ShowCase B](https://github.com/nk-mjk/claude-design-system/blob/main/%E1%84%8B%E1%85%A2%E1%86%AB%E1%84%90%E1%85%B5%E1%84%8F%E1%85%B3-showcase-b.png?raw=true)
 
 ---
 
