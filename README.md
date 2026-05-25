@@ -71,7 +71,7 @@ bds_mybrand_prev.md ← 직전 버전 (수정 전 백업)
 ## 설치 방법
 
 1. 이 저장소를 다운로드합니다
-2. `design-system-by-blue/` 폴더를 Claude Cowork의 플러그인 폴더에 복사합니다
+2. `design-system-by-blue.skill` 파일을 다운받아서 Claude Cowork의 플러그인에 설치합니다.
 3. Cowork를 재시작하면 스킬이 활성화됩니다
 
 > 📌 설치 방법 상세 안내는 책 본문 또는 [유튜브 채널](https://www.youtube.com/@mjKorea123)을 참고하세요.
