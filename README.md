@@ -42,6 +42,15 @@ Claude Design에서 만든 디자인 시스템 파일(.zip)을 그대로 불러�
 
 ---
 
+## 🗃️ 샘플 디자인 시스템 9종
+
+`design-system/` 폴더에 바로 사용할 수 있는 디자인 시스템 샘플 9종이 포함되어 있어요.
+원하는 파일을 스킬에 불러오면 내 스타일로 바로 적용할 수 있어요.
+
+![디자인 시스템 샘플 목록](https://github.com/nk-mjk/claude-design-system/blob/main/design-system/design-system-by-blue_list.png?raw=true)
+
+---
+
 ## 이렇게 말하면 돼요
 
 ```
