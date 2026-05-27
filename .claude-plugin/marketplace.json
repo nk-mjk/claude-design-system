@@ -1,0 +1,18 @@
+{
+  "name": "blue-plugins",
+  "owner": {
+    "name": "Blue (조남경)"
+  },
+  "plugins": [
+    {
+      "name": "design-system-by-blue",
+      "description": "나만의 디자인 스타일(색깔·폰트·분위기)을 저장해두고 PPT·문서·카드뉴스·위젯을 만들 때마다 일관된 디자인으로 자동 적용하는 스킬",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/nk-mjk/claude-design-system.git",
+        "sha": "fd597f4ff49bb38e571425930c5cdc9c0e4cdb8d"
+      },
+      "homepage": "https://github.com/nk-mjk/claude-design-system"
+    }
+  ]
+}
