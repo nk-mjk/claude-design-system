@@ -3,5 +3,7 @@
   "description": "나만의 디자인 스타일(색깔·폰트·분위기)을 저장해두고 PPT·문서·카드뉴스·위젯을 만들 때마다 일관된 디자인으로 자동 적용하는 스킬",
   "version": "5.0.0",
   "keywords": ["design-system", "pptx", "branding", "korean", "cowork"],
-  "author": "Blue (조남경)"
+  "author": {
+  "name": "Blue (조남경)"
+  }
 }
